@@ -1,5 +1,5 @@
 - 🌱 I’m currently learning python, c++ and SQL languages and a language that interests me!
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on companies with good quality!!! 
 - 📫 How to reach me: thiago.aguirre@outlook.com
 
 
