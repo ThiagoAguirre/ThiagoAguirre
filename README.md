@@ -1,6 +1,8 @@
 - 🌱 I’m currently learning python, c++ and SQL languages and a language that interests me!
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: thiago.aguirre@outlook.com
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAguirre&layout=compact&theme=dracula)
 
 <!--
