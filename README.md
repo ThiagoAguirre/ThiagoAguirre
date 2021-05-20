@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAguirre-coder&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAguirre&layout=compact&theme=dracula)
 
 <!--
 **ThiagoAguirre/ThiagoAguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
