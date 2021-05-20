@@ -1,6 +1,6 @@
 i'm Thiago and here below are some things about me!!!!
 
-- 🌱 I’m currently learning python, c++ and SQL languages and a language that interests me!
+- 🌱 I’m currently learning python, c++, SQL  and a language that interests me!
 - 👯 I’m looking to collaborate on companies with good quality!!! 
 - 📫 How to reach me: thiago.aguirre@outlook.com
 
