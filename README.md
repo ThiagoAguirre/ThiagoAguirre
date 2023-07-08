@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Pygame and JavaScript**
 
-- 📫 How to reach me **linkedin, email or instagram**
+- 📫 How to reach me **linkedin or email**
 
 - 🎧 Fun fact **i love watch anime and role playing**
 
