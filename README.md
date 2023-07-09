@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Thiago Aguirre</h1>
+<h1 align="center">Hi, Thiago Aguirre</h1>
 <h3 align="center">A little about myself</h3>
 
 - 🌱 I’m currently learning **Pygame and JavaScript**
