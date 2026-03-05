@@ -1,30 +1,139 @@
-<h1 align="center">Hi, I'm Thiago Aguirre</h1>
-<h3 align="center">A passionate in programming and solve problems</h3>
-
-- 👨🏻‍💻 I’m currently working on [Beecrowd](https://beecrowd.com/pt/)
-
-- 🌱 I'm currently improving **the methods of how to solve problems effectively and efficiently**
-
-- 💬 Ask me about **RPG or also programming using godot or even about Artificial Intelligence**
-- 📫 How to contact me **By my email or by LinkedIn below**
-
-<h3 align="left">Connect with me:</h3>
- <a href = "mailto:thiago.aguirre08@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-oliveira-aguirre-640a21209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>  </a> </p> <a href="https://cakephp.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cakephp/cakephp-plain-wordmark.svg" width="60" height="60" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" /></a>
-
-<h3 align="center">
-<h2  align="center">=--------Github status--------=</h2>
-<h3 align="center">
 <div align="center">
-  <a href="https://github.com/ThiagoAguirre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoAguirre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAguirre&layout=compact&langs_count=7&theme=dark"/>
+
+
+---
+
+<h1>Hi, I'm Thiago de Oliveira Aguirre 👋</h1>
+<h3>A developer passionate about programming and problem solving</h3>
+
+- 👨🏻‍💻 Currently sharpening my skills solving problems on <a href="https://www.beecrowd.com.br" target="_blank">Beecrowd</a>  
+- 🌱 Always improving how I solve problems effectively and efficiently  
+- 💬 You can talk to me about RPGs, Godot, or Artificial Intelligence  
+- 📫 Reach me by email or LinkedIn below
+
+---
+
+<h3>Connect with me</h3>
+
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.aguirre08@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-oliveira-aguirre-640a21209/)
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>About me</h2>
+
+Hello, I'm <strong>Thiago Aguirre</strong> — a developer focused on building reliable solutions and solving complex problems.  
+I enjoy working with web technologies, backend services, and tools that help bring ideas to life.
+
+<br/>
+
+<strong>Problem-solving oriented developer</strong>  
+<strong>Web development & backend</strong>  
+<strong>Clean, maintainable code</strong>  
+<strong>Always learning and experimenting</strong>
+
+</div>
+
+---
+
+<div align="center">  
+  
+<h2>Technologies</h2>
+
+<h3>Core Languages</h3>
+
+![Python](https://img.shields.io/badge/PYTHON-000000?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat&logo=php&logoColor=white)
+
+<br/>
+
+<h3>Frameworks & Libraries</h3>
+
+![Django](https://img.shields.io/badge/DJANGO-000000?style=flat&logo=django&logoColor=white)
+![CakePHP](https://img.shields.io/badge/CAKEPHP-000000?style=flat&logo=cakephp&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=flat&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Sass](https://img.shields.io/badge/SASS-000000?style=flat&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-000000?style=flat&logo=bootstrap&logoColor=white)
+
+<br/>
+
+<h3>Tools & Platforms</h3>
+
+![Git](https://img.shields.io/badge/GIT-000000?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-000000?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=flat&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-000000?style=flat&logo=figma&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-000000?style=flat&logo=kubernetes&logoColor=white)
+
+<br/>
+
+<h3>Collaboration</h3>
+
+Comfortable working with <strong>GitHub</strong>, pull requests, reviews, and continuous improvement workflows.
+
+</div>
+
+---
+
+<div align="center">
+
+<h2>Statistics</h2>
+
+<table>
+<tr>
+<td width="50%" align="center">
+<td width="50%" align="center">
+    <h4>Most Used Languages</h4>
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAguirre&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
+        alt="Top Languages"
+    />
+</td>
+<td width="50%" align="center">
+    <h4>GitHub Stats</h4>
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=ThiagoAguirre&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+        alt="GitHub Stats"
+    />
+</td>
+</td>
+</tr>
+</table>
+
+<h3>Contribution Streak</h3>
+
+<img 
+  src="https://streak-stats.demolab.com?user=ThiagoAguirre&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
+  alt="GitHub Streak"
+/>
+
+<h3>Contribution Graph</h3>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoAguirre&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Thiago%20Aguirre's%20Contribution%20Graph"
+  alt="Activity Graph"
+  width="100%"
+/>
+
 </div>
 
 
- 
+---
+
+<h3>Visitor Count</h3>
+
+![](https://komarev.com/ghpvc/?username=ThiagoAguirre&color=000000&style=flat-square&label=Profile+Views)
+
+---
+
+<sub> From <a href="https://github.com/ThiagoAguirre">ThiagoAguirre</a> with</sub>
+
+</div>
