@@ -88,19 +88,18 @@ Comfortable working with <strong>GitHub</strong>, pull requests, reviews, and co
 
 <h2>Statistics</h2>
 
-<table>
+<table align="center">
 <tr>
   <td width="50%" align="center">
     <h4>Most Used Languages</h4>
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAguirre&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
-      alt="Top Languages"
+      src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=ThiagoAguirre&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
     />
   </td>
   <td width="50%" align="center">
     <h4>GitHub Stats</h4>
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=ThiagoAguirre&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+      src="https://github-readme-stats-two-beta-28.vercel.app/api?username=ThiagoAguirre&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
       alt="GitHub Stats"
     />
   </td>
