@@ -15,6 +15,7 @@
 
 <h3>Connect with me</h3>
 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thiagoaguirre.com)
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.aguirre08@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-oliveira-aguirre-640a21209/)
 
@@ -89,22 +90,20 @@ Comfortable working with <strong>GitHub</strong>, pull requests, reviews, and co
 
 <table>
 <tr>
-<td width="50%" align="center">
-<td width="50%" align="center">
+  <td width="50%" align="center">
     <h4>Most Used Languages</h4>
     <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAguirre&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
-        alt="Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAguirre&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
+      alt="Top Languages"
     />
-</td>
-<td width="50%" align="center">
+  </td>
+  <td width="50%" align="center">
     <h4>GitHub Stats</h4>
     <img 
-        src="https://github-readme-stats.vercel.app/api?username=ThiagoAguirre&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
-        alt="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=ThiagoAguirre&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+      alt="GitHub Stats"
     />
-</td>
-</td>
+  </td>
 </tr>
 </table>
 
@@ -135,5 +134,3 @@ Comfortable working with <strong>GitHub</strong>, pull requests, reviews, and co
 ---
 
 <sub> From <a href="https://github.com/ThiagoAguirre">ThiagoAguirre</a> with</sub>
-
-</div>
